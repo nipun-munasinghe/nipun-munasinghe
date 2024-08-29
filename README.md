@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **php**
 
 - 📫 How to reach me **nipunlakmal884@gmail.com**
 
