@@ -9,8 +9,8 @@ A passionate frontend & backend developer from Sri Lanka
 I'm an IT undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), with a strong passion for software development, web design, and game creation. My expertise spans multiple programming languages and technologies, including C, C++, Java, PHP, JavaScript, HTML, CSS and MySQL. I enjoy transforming ideas into digital solutions and continuously strive to enhance my skills. With a focus on creativity and problem-solving, I’m always eager to learn new technologies and collaborate on exciting projects. Feel free to explore my repositories and connect with me! 🚀
 
 * 🌍  I'm based in Sri Lanka
+* 🧠  Currently I'm learning React js
 * ✉️  You can contact me at [nipunlakmal884@gmail.com](mailto:nipunlakmal884@gmail.com)
-* 🧠  I'm learning React js
 
 ### Skills
 
