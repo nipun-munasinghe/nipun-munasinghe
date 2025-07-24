@@ -5,7 +5,7 @@ A passionate full-stack developer from Sri Lanka
 
 --------------------------------------------------------
 
-I am a Software Engineering undergraduate at the Sri Lanka Institute of Information Technology (SLIIT) with a strong focus on building web and backend applications using Next.js, Spring Boot with Java, and MySQL. Passionate about developing scalable, user-friendly solutions, I also have experience with React, JavaScript, HTML, CSS, PHP, C, and C++. I enjoy creative problem-solving, continuous learning, and collaborating on exciting tech projects. Let’s connect, and feel free to explore my repositories!
+As a Software Engineering undergraduate at SLIIT, I specialize in building modern web and backend applications with Next.js, Spring Boot (Java), and MySQL. My background spans frontend technologies like React, JavaScript, HTML, and CSS, as well as strong foundations in PHP, C, and C++. I’m passionate about creating scalable, user-friendly solutions and enjoy designing responsive interfaces with customized UI elements. I thrive on creative problem-solving, continuous learning, and collaborating on innovative projects. Explore my repositories to see my work in action—and let’s connect!
 
 * 🌍  I'm based in Sri Lanka
 * 🧠  Currently I'm learning TypeScript
