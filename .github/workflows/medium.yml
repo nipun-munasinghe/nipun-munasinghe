@@ -1,0 +1,26 @@
+name: Update Medium posts
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'   # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-medium:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Get latest Medium posts
+        uses: sabesansathananthan/medium-article@main
+        with:
+          medium_username: 'nipun-munasinghe'
+          limit: 3
+          readme_path: 'README.md'
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update latest Medium articles'
