@@ -1,28 +1,22 @@
-name: Update Medium posts
+name: Update Medium Posts
 
 on:
   schedule:
-    - cron: '0 */12 * * *'   # every 12 hours
+    - cron: "0 0 * * *" # runs daily
   workflow_dispatch:
 
 jobs:
-  update-medium:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Medium posts section
-        uses: robiningelbrecht/medium-rss-github@main
+      - name: Update Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          medium_feed_url: 'https://medium.com/feed/@nipun-munasinghe'
-          readme_path: 'README.md'
-          start_comment: '<!-- MEDIUM-LIST:START -->'
-          end_comment: '<!-- MEDIUM-LIST:END -->'
-          max_items: 3
-
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'chore: update latest Medium articles'
+          feed_list: "https://medium.com/feed/@nipun-munasinghe"
+          max_post_count: 3
+          comment_tag_name: "MEDIUM"
+          commit_message: "Updated Medium articles"
