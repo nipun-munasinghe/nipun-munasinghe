@@ -8,7 +8,7 @@ A passionate full-stack developer from Sri Lanka
 As a Software Engineering undergraduate at SLIIT, I specialize in building modern web and backend applications with Next.js, Spring Boot (Java), and MySQL. My background spans frontend technologies like React, JavaScript, HTML, and CSS, as well as strong foundations in PHP, C, and C++. I’m passionate about creating scalable, user-friendly solutions and enjoy designing responsive interfaces with customized UI elements. I thrive on creative problem-solving, continuous learning, and collaborating on innovative projects. Explore my repositories to see my work in action and let’s connect!
 
 * 🌍  I'm based in Sri Lanka
-* 🧠  Currently I'm learning Spring Boot
+* 🧠  Currently I'm learning Docker
 * ✉️  You can contact me at [nipunlakmal884@gmail.com](mailto:nipunlakmal884@gmail.com)
 
 ### Skills
