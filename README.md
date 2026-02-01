@@ -56,6 +56,9 @@ Passionate about backend problem-solving and continuous learning. Dive into my r
 ## Latest Medium Articles
 
 <!-- MEDIUM:START -->
+- [Why Every Software Engineer Should Master Probability &amp; Statistics?](https://medium.com/@nipun-munasinghe/why-every-software-engineer-should-master-probability-statistics-086650d2e680?source=rss-75fb9dd6a481------2)
+- [.yml vs .yaml: The Truth Behind the Extensions – My CI Setup Journey](https://medium.com/@nipun-munasinghe/yml-vs-yaml-the-truth-behind-the-extensions-my-ci-setup-journey-9e811562d79e?source=rss-75fb9dd6a481------2)
+- [How I Fixed the Dreaded “Vite: Command Not Found” Error in Docker &lpar;Student-Friendly Guide!&rpar;](https://medium.com/@nipun-munasinghe/how-i-fixed-the-dreaded-vite-command-not-found-error-in-docker-student-friendly-guide-1426f2ae1328?source=rss-75fb9dd6a481------2)
 <!-- MEDIUM:END -->
 
 [![View All Posts](https://img.shields.io/badge/View%20All-Posts-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nipun-munasinghe)
