@@ -1,11 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Nipun Munasinghe &nbsp;&nbsp;&nbsp;&nbsp; ![Profile views](https://komarev.com/ghpvc/?username=nipun-munasinghe&label=Profile%20views&color=0e75b6&style=flat)
 ========================================================================================================================================
 
-A passionate full-stack developer from Sri Lanka  
+A passionate back-end developer from Sri Lanka  
 
 --------------------------------------------------------
 
-As a Software Engineering undergraduate at SLIIT, I specialize in building modern web and backend applications with Next.js, Spring Boot (Java), and MySQL. My background spans frontend technologies like React, JavaScript, HTML, and CSS, as well as strong foundations in PHP, C, and C++. I’m passionate about creating scalable, user-friendly solutions and enjoy designing responsive interfaces with customized UI elements. I thrive on creative problem-solving, continuous learning, and collaborating on innovative projects. Explore my repositories to see my work in action and let’s connect!
+3rd-year Software Engineering undergrad at SLIIT, Sri Lanka. Backend specialist building scalable APIs and robust systems with Spring Boot, Java, and MySQL. I craft high-performance services, optimize databases for efficiency, and design secure, RESTful endpoints that scale. Clean architecture and rock-solid code for real-world backend challenges.
+Passionate about backend problem-solving and continuous learning. Dive into my repos for production-grade Spring projects, and hit me up to collab on something epic.
+
 
 * 🌍  I'm based in Sri Lanka
 * 🧠  Currently I'm learning Docker
