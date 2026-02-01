@@ -53,10 +53,19 @@ Passionate about backend problem-solving and continuous learning. Dive into my r
 
 <p align="left"> <a href="https://www.facebook.com/nipun.lakmal.148?mibextid=LQQJ4d&_rdc=1&_rdr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nipun-munasinghe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/nipun_munasinghe_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nipun-lakmal-b5b3652bb/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## 🌐 Latest Articles on Medium
+## Latest Articles on Medium
 
-<!-- MEDIUM-LIST:START -->
-<!-- MEDIUM-LIST:END -->
+<div align="center">
+
+[![Probability & Stats](https://img.shields.io/badge/Why%20Every%20Software%20Engineer%20Should%20Master%20Probability-161B22?logo=medium&logoColor=white&color=6C63FF)](https://medium.com/@nipun-munasinghe/why-every-software-engineer-should-master-probability-statistics-086650d2e680)
+
+[![YML vs YAML](https://img.shields.io/badge/YML%20vs%20YAML%20The%20Truth%20Behind%20Extensions-161B22?logo=medium&logoColor=white&color=6C63FF)](https://medium.com/@nipun-munasinghe/yml-vs-yaml-the-truth-behind-the-extensions-my-ci-setup-journey-9e811562d79e)
+
+</div>
+
+[![View All Posts](https://img.shields.io/badge/View%20All-Posts-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nipun-munasinghe)
+
+
 
 
 ### Badges
