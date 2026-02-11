@@ -10,7 +10,7 @@ Passionate about backend problem-solving and continuous learning. Dive into my r
 
 
 * 🌍  I'm based in Sri Lanka
-* 🧠  Currently I'm learning Docker
+* 🧠  Currently I'm learning Go lang
 * ✉️  You can contact me at [nipunlakmal884@gmail.com](mailto:nipunlakmal884@gmail.com)
 
 ### Skills
