@@ -5,7 +5,7 @@ A passionate back-end developer from Sri Lanka
 
 --------------------------------------------------------
 
-3rd-year Software Engineering undergrad at SLIIT, Sri Lanka. Backend specialist building scalable APIs and robust systems with Spring Boot, Java, and MySQL. I craft high-performance services, optimize databases for efficiency, and design secure, RESTful endpoints that scale. Clean architecture and rock-solid code for real-world backend challenges.
+3rd-year Software Engineering undergrad at SLIIT, Sri Lanka. Full-Stack specialist building scalable APIs and robust systems with Spring Boot, Java, ReactJS/NextJS and MySQL. I craft high-performance services, optimize databases for efficiency, and design secure, RESTful endpoints that scale. Clean architecture and rock-solid code for real-world backend challenges.
 Passionate about backend problem-solving and continuous learning. Dive into my repos for production-grade Spring projects, and hit me up to collab on something epic.
 
 
