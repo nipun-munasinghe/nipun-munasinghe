@@ -58,9 +58,9 @@ Passionate about backend problem-solving and continuous learning. Dive into my r
 ### Latest Medium Articles
 
 <!-- MEDIUM:START -->
+- [Gradle or Maven? The Question That Hit Me on Day 1 of My Internship](https://medium.com/@nipun-munasinghe/gradle-or-maven-the-question-that-hit-me-on-day-1-of-my-internship-ff292d012974?source=rss-75fb9dd6a481------2)
 - [Do You Know How Rich People Earn Money While Buying a Vehicle?](https://medium.com/@nipun-munasinghe/do-you-know-how-rich-people-earn-money-while-buying-a-vehicle-5c5a6f075157?source=rss-75fb9dd6a481------2)
 - [Why Every Software Engineer Should Master Probability &amp; Statistics?](https://medium.com/@nipun-munasinghe/why-every-software-engineer-should-master-probability-statistics-086650d2e680?source=rss-75fb9dd6a481------2)
-- [.yml vs .yaml: The Truth Behind the Extensions – My CI Setup Journey](https://medium.com/@nipun-munasinghe/yml-vs-yaml-the-truth-behind-the-extensions-my-ci-setup-journey-9e811562d79e?source=rss-75fb9dd6a481------2)
 <!-- MEDIUM:END -->
 
 [![View All Posts](https://img.shields.io/badge/View%20All-Posts-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nipun-munasinghe)
