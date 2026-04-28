@@ -16,7 +16,7 @@ Passionate about backend problem-solving and continuous learning. Dive into my r
 ### Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,java,spring,js,react,nextjs,html,css,bootstrap,tailwind,php,mysql,mongodb,vscode,idea,postman,docker,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,java,spring,js,react,nextjs,html,css,bootstrap,tailwind,php,mysql,mongodb,postgresql,vscode,idea,postman,docker,figma&perline=10" />
 </p>
 
 
